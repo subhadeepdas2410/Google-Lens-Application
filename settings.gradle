@@ -1,0 +1,2 @@
+rootProject.name = "Google Lens Application"
+include ':app'
